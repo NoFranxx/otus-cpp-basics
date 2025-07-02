@@ -1,2 +1,3 @@
 # otus-cpp-basics
 В данном репозитории будут храниться мои результаты по обучению в OTUS C++ basic.
+Edit for "test1"
